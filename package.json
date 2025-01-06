@@ -1,0 +1,24 @@
+{
+    "name": "nuxt-tailwind-app",
+    "version": "1.0.0",
+    "description": "A Nuxt 3 project with Tailwind CSS integration",
+    "scripts": {
+        "dev": "nuxt dev",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "lint": "eslint .",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "nuxt": "^3.8.0"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.20",
+        "eslint": "^8.50.0",
+        "postcss": "^8.4.49",
+        "tailwindcss": "^3.4.17"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    }
+}
